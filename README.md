@@ -1,9 +1,13 @@
 # MetaWealth
 
 The + and - buttons for each of Rooms, Adults and Children should be enabled/disabled and the value updated, based on the following constraints:
+
 Each of the + or - buttons can be clicked independent of the other
+
 At no point of time can an invalid combination of data be possible in the UI
+
 Rooms can be minimum 1 and maximum 5
+
 of persons in each room (i.e. total of Adults and Children) can be minimum 1 and maximum 4
 of Adults can be >= 1 (i.e. a booking should have at least one adult)
 of Children can be >= 0
